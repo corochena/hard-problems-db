@@ -48,17 +48,6 @@ $$\mathcal{L} = \frac{1}{2}(m_1 + m_2)l_1^2\dot{\theta}_1^2 + \frac{1}{2}m_2 l_2
 
 ---
 
-📊 System Configuration Flow
-
-```mermaid
-graph TD
-    A[Pivot Point] -->|Length l1| B(Mass m1 at θ1)
-    B -->|Length l2| C(Mass m2 at θ2)
-    C --> D[Chaotic Trajectory]
-```
-
----
-
 🔗 Related Notes
 
 * [[bead-on-rotating-hoop|Bead on a Rotating Hoop]]
