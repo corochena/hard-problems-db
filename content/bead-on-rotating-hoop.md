@@ -72,7 +72,7 @@ $$z = -R \\cos\\theta$$
 
 Differentiating with respect to time yields the velocity components, leading to kinetic energy $T$:
 
-$$T = \\frac{1}{2}m R^2 \\left( \\dot{\\theta}^2 + \\omega^2 \\sin^2\\theta \\right)$$
+$$T = \frac{1}{2}m R^2 \left( \dot{\theta}^2 + \omega^2 \sin^2\theta \right)$$
 
 
 
