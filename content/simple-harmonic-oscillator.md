@@ -59,6 +59,27 @@ $$
 x(t) = A \cos\left(\sqrt{\frac{k}{m}}t\right)
 $$
 
+### Problem Solution
+
+First, we establish the fundamental kinetic and potential energy equations:
+
+$$T = \frac{1}{2} m (\dot{x}^2 + \dot{y}^2)$$
+
+<details>
+<summary><b>Click to show full algebraic steps / equations</b></summary>
+
+Here are the detailed intermediate derivations:
+
+$$L = T - V$$
+
+$$\frac{d}{dt} \left( \frac{\partial L}{\partial \dot{\theta}} \right) - \frac{\partial L}{\partial \theta} = 0$$
+
+$$\ddot{\theta} + \frac{g}{R}\sin\theta = 0$$
+
+</details>
+
+Finally, evaluating at small angle approximation yields standard harmonic motion.
+
 ---
 
 ## 📊 Energy Flow Diagram
