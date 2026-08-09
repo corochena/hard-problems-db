@@ -10,7 +10,7 @@ tags:
 
 # Movimiento de proyectil con Linear Drag
 
-**Source / Author: ** Inspirado por *I.E. Irodov - Problemas de Fisica*
+**Fuente / Autor:** Inspirado por *I.E. Irodov - Problemas de Fisica*
 
 ## Enunciado
 Una particula de masa $m$ se lanza desde el suelo con velocidad inicial $v_0$ con angulo $\theta$ respecto a la horizontal. Ademas de la gravedad $g$, la particula experimenta una fuerza de resistencia del aire lineal $\vec{F}_d = -b\vec{v}$, donde $b$ es una constante de resistencia del aire.
