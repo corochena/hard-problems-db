@@ -21,6 +21,7 @@ Una particula de masa $m$ se lanza desde el suelo con velocidad inicial $v_0$ co
 Aplicando la segunda ley de Newton en los ejes horizontal ($x$) y vertical ($y$):
 
 $$m \frac{dv_x}{dt} = -b v_x$$
+
 $$m \frac{dv_y}{dt} = -mg - b v_y$$
 
 ### 2. Despejando la velocidad x $v_x(t)$
