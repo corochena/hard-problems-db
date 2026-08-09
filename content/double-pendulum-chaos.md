@@ -55,8 +55,8 @@ graph TD
     A[Pivot Point] -->|Length l1| B(Mass m1 at θ1)
     B -->|Length l2| C(Mass m2 at θ2)
     C --> D[Chaotic Trajectory]
+```
 
----
 ---
 
 🔗 Related Notes
