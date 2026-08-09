@@ -24,13 +24,17 @@ enableToc: true
 
 
 
-A block of mass $m$ is attached to an ideal spring with spring constant $k$ on a frictionless horizontal surface. 
+A block of mass $m$ is attached to an ideal spring with spring constant $k$ on a frictionless horizontal surface.
 
 
 
 1\. Write down the \*\*Hooke's Law\*\* restoring force.
 
+
+
 2\. Formulate the equation of motion using Newton's Second Law.
+
+
 
 3\. Solve for the position $x(t)$ given the initial conditions $x(0) = A$ and $\\dot{x}(0) = 0$.
 
@@ -52,7 +56,11 @@ The restoring force acting on the mass is given by Hooke's Law:
 
 
 
-$$F = -kx$$
+$$
+
+F = -kx
+
+$$
 
 
 
@@ -60,7 +68,15 @@ Applying Newton's Second Law ($F = m\\ddot{x}$):
 
 
 
-$$m \\frac{d^2x}{dt^2} = -kx \\implies \\frac{d^2x}{dt^2} + \\omega\_0^2 x = 0$$
+$$
+
+m \\frac{d^2x}{dt^2} = -kx
+
+\\implies
+
+\\frac{d^2x}{dt^2} + \\omega\_0^2 x = 0
+
+$$
 
 
 
@@ -68,7 +84,11 @@ where the natural angular frequency is defined as:
 
 
 
-$$\\omega\_0 = \\sqrt{\\frac{k}{m}}$$
+$$
+
+\\omega\_0 = \\sqrt{\\frac{k}{m}}
+
+$$
 
 
 
@@ -80,15 +100,21 @@ The general solution to this second-order linear differential equation is:
 
 
 
-$$x(t) = C\_1 \\cos(\\omega\_0 t) + C\_2 \\sin(\\omega\_0 t)$$
+$$
+
+x(t) = C\_1 \\cos(\\omega\_0 t) + C\_2 \\sin(\\omega\_0 t)
+
+$$
 
 
 
 Applying the initial conditions:
 
-\* $x(0) = A \\implies C\_1 = A$
 
-\* $\\dot{x}(0) = 0 \\implies C\_2 = 0$
+
+\- $x(0) = A \\implies C\_1 = A$
+
+\- $\\dot{x}(0) = 0 \\implies C\_2 = 0$
 
 
 
@@ -96,7 +122,11 @@ Thus, the position of the mass as a function of time is:
 
 
 
-$$x(t) = A \\cos\\left( \\sqrt{\\frac{k}{m}} t \\right)$$
+$$
+
+x(t) = A \\cos\\left(\\sqrt{\\frac{k}{m}}t\\right)
+
+$$
 
 
 
