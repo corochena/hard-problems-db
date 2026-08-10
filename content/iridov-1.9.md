@@ -13,36 +13,66 @@ tags:
 **Fuente/Autor:**  *I.E. Irodov - Problemas de Fisica General*
 
 ## Enunciado
-Un bote navega por un rio a una velocidad que es $n = 2$ veces menor
-que la de la corriente de este. Que angulo respecto a la corriente debe 
-mantener el bote, para que esta lo arrastre lo menos posible.
+Un bote navega por un rio a una velocidad que es $n = 2$ veces menor que la de la corriente de este. Que angulo respecto a la corriente debe mantener el bote, para que esta lo arrastre lo menos posible.
 
 ## Solucion
 
-### 1. Ecuaciones del movimiento
-Aplicando la segunda ley de Newton en los ejes horizontal ($x$) y vertical ($y$):
+### 1. Vector velocidad resultante
+Sumando vectorialmente las velocidades del bote y del rio:
+$$\vec{v}_{bote} = (-v cos\alpha, vsen\alpha),  \vec{v}_{rio} = (2v, 0)$$
+
 
 $$
-m \frac{dv_x}{dt} = -b v_x
+\vec{v}_{resultante} = v(2-cos\alpha, sen\alpha)
+$$
+
+
+### 2. Arrastre del bote
+Con la velocidad resultante el bote llegara a la orilla habiendolo arrastrado una distancia $x$.
+
+$$
+t = \frac{ancho}{sen\alpha}
 $$
 
 $$
-m \frac{dv_y}{dt} = -mg - b v_y
+x = (2-cos\alpha)vt
 $$
 
-### 2. Despejando la velocidad x $v_x(t)$
-Separando las variables para la componente horizontal
-
 $$
-\int_{v_{0x}}^{v_x} \frac{dv_x}{v_x} = -\frac{b}{m} \int_{0}^{t} dt
+x = \frac{(2-cos\alpha)}{sen\alpha}v*ancho
 $$
 
-Tomando exponencial en ambos lados da:
+### 3. Funcion del angulo y su valor minimo
+$v$ y $ancho$ son constantes, definimos la funcion:
 
 $$
-v_x(t) = v_0\cos\theta \cdot e^{-\frac{b}{m}t}
+f(\alpha) = \frac{2-cos\alpha}{sen\alpha}
 $$
 
+tomando la derivada:
+
+$$
+f'(\alpha) = \frac{sen^2\alpha - 2cos\alpha + cos^2\alpha}{sen^2\alpha}
+$$
+
+$$
+f'(\alpha) = \frac{1 - 2cos\alpha}{sen^2\alpha}
+$$
+
+### 4. Punto critico. Resolviendo la ecuacion trigonometrica.
+
+$$
+\frac{1 - 2cos\alpha}{sen^2\alpha} = 0
+$$
+
+$$
+1 - 2cos\alpha = 0
+$$
+
+
+$$
+\alpha = \frac{\pi}{3}
+$$
 ---
 
 ## Problemas relacionados
