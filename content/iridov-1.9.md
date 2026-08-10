@@ -19,13 +19,17 @@ Un bote navega por un rio a una velocidad que es $n = 2$ veces menor que la de l
 
 ### 1. Vector velocidad resultante
 Sumando vectorialmente las velocidades del bote y del rio:
-$$\vec{v}_{bote} = (-v cos\alpha, vsen\alpha),  \vec{v}_{rio} = (2v, 0)$$
+$$
+\vec{v}_{bote} = (-v cos\alpha, vsen\alpha),
+$$
 
+$$
+\vec{v}_{rio} = (2v, 0)
+$$
 
 $$
 \vec{v}_{resultante} = v(2-cos\alpha, sen\alpha)
 $$
-
 
 ### 2. Arrastre del bote
 Con la velocidad resultante el bote llegara a la orilla habiendolo arrastrado una distancia $x$.
@@ -74,6 +78,11 @@ $$
 \alpha = \frac{\pi}{3}
 $$
 ---
+
+## Solucion Geogebra
+<iframe src="https://www.geogebra.org/calculator/awfbhsmh?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0">
+</iframe>
+
 
 ## Problemas relacionados
 - [[simple-harmonic-oscillator|Simple Harmonic Oscillator]]
