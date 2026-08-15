@@ -121,4 +121,5 @@ $$
 <iframe src="https://www.geogebra.org/calculator/fvmh8bqp?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### 7. Problemas relacionados
-- [[iridov-1.9|Arrastre minimo]]
+- [[iridov-1.9| Arrastre minimo]]
+- [[iridov-1.11| Distancia en movimiento parabolico]]
