@@ -85,5 +85,5 @@ $$
 
 
 ## Problemas relacionados
-- [[simple-harmonic-oscillator|Simple Harmonic Oscillator]]
-- [[double-pendulum-chaos|Pendulo doble caos]]
+- [[irodov-1.11|Distancia en movimiento parabolico]]
+- [[irodov-1.32|Tiempo de vuelo de proyectil]]
