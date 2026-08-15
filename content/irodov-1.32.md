@@ -26,5 +26,5 @@ Un cañon y un blanco se encuentran al mismo nivel y a 5.1 km de distancia el un
 <iframe src="https://www.geogebra.org/calculator/hf9v6bgd?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### 7. Problemas relacionados
-- [[iridov-1.31| Rebote en plano inclinado]]
-- [[iridov-1.11| Distancia en movimiento parabolico]]
+- [[irodov-1.31| Rebote en plano inclinado]]
+- [[irodov-1.11| Distancia en movimiento parabolico]]
