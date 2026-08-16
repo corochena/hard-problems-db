@@ -23,7 +23,7 @@ De un cañon fueron disparados dos proyectiles seguidos con una velocidad $v_0 =
 
 
 ### 6. Geogebra
-<iframe src="https://www.geogebra.org/calculator/hf9v6bgd?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/calculator/mpunxerz?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### 7. Problemas relacionados
 - [[irodov-1.31| Rebote en plano inclinado]]
