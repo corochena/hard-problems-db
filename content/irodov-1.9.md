@@ -3,9 +3,12 @@ title: Arrastre minimo en rio
 author: Irodov
 difficulty: low
 tags:
-  - physics
-  - vectors
-  - kinematics
+  - fisica
+  - vectores
+  - cinematica
+  - derivadas
+  - optimizacion
+  - trigonometria
 ---
 
 # Arrastre mínimo en rio

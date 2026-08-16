@@ -3,9 +3,11 @@ title: Rebote en plano inclinado
 author: Irodov
 difficulty: medium
 tags:
-  - physics
-  - parabolic motion
-  - kinematics
+  - fisica
+  - movimiento parabolico
+  - cinematica
+  - trigonometria
+  - vectores
 ---
 
 # Rebote en plano inclinado

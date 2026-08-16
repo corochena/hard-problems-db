@@ -134,3 +134,4 @@ $$
 ## Problemas relacionados
 - [[irodov-1.31| Rebote en plano inclinado]]
 - [[irodov-1.11| Distancia en movimiento parabolico]]
+- [[irodov-1.33| Tiempo de retraso]]
