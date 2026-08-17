@@ -4,16 +4,15 @@ title: Welcome to Hard Problems DB
 
 # Bienvenidos a Problemas Dificiles DB
 
-Bienvenidos a mi jardin de problemas digital! Este repositorio guarda una coleccion de problemas de **Fisica**, **Matematica**, y **Programacion**
+Bienvenidos a mi jardin de problemas digital! Este repositorio guarda una coleccion de problemas de **Fisica** y **Matematica**
 
 ---
 
 ## 📚 Problem Categories
 
 ### 🪐 Fisica & Mecanica Clasica
-- [[bead-on-rotating-hoop|Bead on a Rotating Hoop]]
-- [[simple-harmonic-oscillator|Simple Harmonic Oscillator]]
-- [[double-pendulum-chaos|Double Pendulum Dynamics]]
+- [[irodov-1.9| Arrastre en rio]]
+
 
 ---
 

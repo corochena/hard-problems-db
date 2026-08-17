@@ -59,6 +59,8 @@ $$
 <details>
 <summary>Clic para ver los pasos intermedios del despeje</summary>
 
+<hr>
+
 $$
 \frac{vsen\alpha}{tan\alpha(vcos\alpha-u)}-1=\frac{g}{2tan^2\alpha(vcos\alpha-u)}h
 $$
@@ -72,7 +74,7 @@ h=\frac{2tan\alpha(vcos\alpha-u)\;utan\alpha}{g}
 $$
 
 </details>
-
+<hr>
 Dividiendo entre h y despejando obtenemos:
 
 $$
@@ -83,7 +85,7 @@ $$
 <iframe src="https://www.geogebra.org/calculator/byrrhdd7?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
-- [irodov-1.11 | Distancia en movimiento parabólico]
-- [irodov-1.31 | Rebote en plano inclinado]
-- [irodov-1.32 | Tiempo de vuelo]
-- [irodov-1.33 | Tiempo de retraso]
+- [[irodov-1.11 | Distancia en movimiento parabólico]]
+- [[irodov-1.31 | Rebote en plano inclinado]]
+- [[irodov-1.32 | Tiempo de vuelo]]
+- [[irodov-1.33 | Tiempo de retraso]]
