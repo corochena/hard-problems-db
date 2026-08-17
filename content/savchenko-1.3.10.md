@@ -25,3 +25,9 @@ Usaremos ecuaciones paramétricas de $x$ y $y$ para la piedra y para el pato, ad
 
 ## Solución en Geogebra
 <iframe src="https://www.geogebra.org/calculator/byrrhdd7?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Problemas relacionados
+- [irodov-1.11 | Distancia en movimiento parabólico]
+- [irodov-1.31 | Rebote en plano inclinado]
+- [irodov-1.32 | Tiempo de vuelo]
+- [irodov-1.33 | Tiempo de retraso]
