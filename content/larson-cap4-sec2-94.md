@@ -1,11 +1,11 @@
 ---
-title: Dardo lanzado al azar
-author: Larson
-difficulty: medium
+titulo: Dardo lanzado al azar
+autor: Larson
+dificultad: media
 tags:
-  - probability
-  - integration
-  - calculus
+  - probabilidad
+  - integracion
+  - calculo
 ---
 
 **Fuente/Autor:**  *Larson - Calculo*

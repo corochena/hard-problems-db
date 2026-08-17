@@ -1,7 +1,7 @@
 ---
-title: Distancia en movimiento parabolico
-author: Irodov
-difficulty: low
+titulo: Distancia en movimiento parabolico
+autor: Irodov
+dificultad: media
 tags:
   - fisica
   - vectores

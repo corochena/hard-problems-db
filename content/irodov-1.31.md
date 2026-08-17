@@ -1,7 +1,7 @@
 ---
-title: Rebote en plano inclinado
-author: Irodov
-difficulty: medium
+titulo: Rebote en plano inclinado
+autor: Irodov
+dificultad: media
 tags:
   - fisica
   - movimiento parabolico

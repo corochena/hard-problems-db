@@ -1,7 +1,7 @@
 ---
-title: Tiempo de Vuelo
-author: Irodov
-difficulty: medium
+titulo: Tiempo de Vuelo
+autor: Irodov
+dificultad: media
 tags:
   - fisica
   - movimiento parabolico

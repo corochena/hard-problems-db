@@ -1,7 +1,7 @@
 ---
-title: Altura de vuelo
-author: Savchenko
-difficulty: medium
+titulo: Altura de vuelo
+autor: Savchenko
+dificultad: media
 tags:
   - fisica
   - movimiento parabolico

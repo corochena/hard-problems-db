@@ -1,7 +1,7 @@
 ---
-title: Tiempo de retraso
-author: Irodov
-difficulty: medium
+titulo: Tiempo de retraso
+autor: Irodov
+dificultad: media
 tags:
   - fisica
   - movimiento parabolico

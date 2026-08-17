@@ -1,7 +1,7 @@
 ---
-title: Arrastre minimo en rio
-author: Irodov
-difficulty: low
+titulo: Arrastre minimo en rio
+autor: Irodov
+dificultad: baja
 tags:
   - fisica
   - vectores
