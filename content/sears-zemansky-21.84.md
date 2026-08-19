@@ -14,7 +14,7 @@ tags:
 **Fuente/Autor:**  *Sears/Zemansky - Fisica Universitaria*
 
 ## Enunciado
-Dos esferas diminutas de masa $m$ tienen cargas iguales pero opuestas de magnitud $q$. Se atan al mismo gancho del techo con cuerdas ligeras de longitud $L$. Cuando se activa un campo eléctrico horizontal y uniforme $E$, las esferas cuelga con un ángulo $\theta$ entre las cuerdas. Encuentre el ángulo $\theta$ entre las cuerdas en términos de $E$, $q$, $m$, $L$ y $g$.
+Dos esferas diminutas de masa $m$ tienen cargas iguales pero opuestas de magnitud $q$. Se atan al mismo gancho del techo con cuerdas ligeras de longitud $L$. Cuando se activa un campo eléctrico horizontal y uniforme $E$, las esferas cuelgan con un ángulo $\theta$ entre las cuerdas. Encuentre el ángulo $\theta$ entre las cuerdas en términos de $E$, $q$, $m$, $L$ y $g$.
 
 ## Solucion
 
