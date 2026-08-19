@@ -90,8 +90,8 @@ $$
 \theta = 2tan^{-1}x
 $$
 
-### 6. Solución en Geogebra
+### Solución en Geogebra
 <iframe src="https://www.geogebra.org/calculator/zxbsf2sk?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-### 7. Problemas relacionados
+### Problemas relacionados
 - [[otro.md| Problema de campo electrico o similar]]
