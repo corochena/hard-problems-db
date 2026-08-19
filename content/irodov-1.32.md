@@ -6,7 +6,7 @@ tags:
   - fisica
   - movimiento parabolico
   - cinematica
-  - trigonometia
+  - trigonometria
 ---
 
 # Tiempo de vuelo
