@@ -1,5 +1,5 @@
 ---
-titulo: Angulo de apertura
+titulo: Esferas cargadas colgadas en presencia de campo eléctrico
 autor: Sears/Zemansky
 dificultad: media
 tags:
@@ -9,7 +9,7 @@ tags:
   - trigonometria
 ---
 
-# Angulo de apertura
+# Esferas cargadas colgadas en presencia de campo eléctrico
 
 **Fuente/Autor:**  *Sears/Zemansky - Fisica Universitaria*
 
@@ -94,4 +94,4 @@ $$
 <iframe src="https://www.geogebra.org/calculator/zxbsf2sk?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### Problemas relacionados
-- [[otro.md| Problema de campo electrico o similar]]
+- [[savchenko-6.1.8.md| Cuatro cargas formando un rombo]]

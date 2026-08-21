@@ -25,71 +25,103 @@ Cuatro cargas $Q, q, Q, q$ se unen mediante cuatro hilos de longitud $l$ de la m
 ### 1. Estrategia
 Haremos un diagrama de cuerpo libre (DCL) para la carga $q$ y otro para la carga $Q$, de esas ecuaciones encontraremos $\beta$
 
-### 2. Ecuaciones paramétricas
+### 2. Condición de Equilibrio. Simetría. Ley de Coulomb.
+Debido a la simetría de las cargas podemos asumir que las tensiones en los hilos son iguales y llamarles $T$. La fuerza neta en q y en Q debe ser cero.
 
-Ecuaciones paramétricas del pato:
-
-$$
-x=L+ut, \quad y=h
-$$
-
-Ecuaciones paramétricas de la piedra
-$$
-x=vcos\alpha\;t, \quad y=vsen\alpha\;t - \frac{1}{2}gt^2
-$$
-
-### 3. Condición de choque
-Para que la piedra choque contra el pato sus coordenadas $x$ e $y$ deben ser iguales para el mismo valor de $t$, por lo tanto deben cumplirse las siguientes ecuaciones:
+En la carga $q$:
 
 $$
-(1) \quad L+ut = vcos\alpha\;t
+\sum F_y = 0
 $$
 
+Aplicando la ley de Coulomb $F=k\frac{q_1q_2}{r^2}$
 $$
-(2) \quad vsen\alpha\;t - \frac{1}{2}gt^2 = h
+(1)\quad 2k\frac{qQ}{l^2}\,sen\frac{\beta}{2} + k\frac{q^2}{4l^2\,sen^2\frac{\beta}{2}} = 2T\,sen\frac{\beta}{2}
 $$
 
-### 4. Desarrollo algebraico
-Despejamos t de la ecuación $(1)$ y reemplazamos en la ecuación $(2)$
+De forma similar para la carga $Q$
 
 $$
-t = \frac{h}{tan\alpha(vcos\alpha-u)}
+\sum F_x = 0
 $$
 
 $$
-\frac{(vsen\alpha)h}{tan\alpha(vcos\alpha-u)} - \frac{gh^2}{2tan^2\alpha(vcos\alpha-u)^2}=h
+(2) \quad 2k\frac{qQ}{l^2}\,cos\frac{\beta}{2} + k\frac{Q^2}{4l^2\,cos^2\frac{\beta}{2}} = 2T\,cos\frac{\beta}{2}
 $$
 
-<details>
-<summary>Clic para ver los pasos intermedios del despeje</summary>
-
-<hr>
+### 3. Desarrollo algebraico. Despeje.
+Reordenando las ecuaciones (1) y (2)
 
 $$
-\frac{vsen\alpha}{tan\alpha(vcos\alpha-u)}-1=\frac{g}{2tan^2\alpha(vcos\alpha-u)}h
+(1) \quad k\frac{q^2}{4l^2\,sen^2\frac{\beta}{2}} = 2T\,sen\frac{\beta}{2} - 2k\frac{qQ}{l^2}\,sen\frac{\beta}{2}
 $$
 
 $$
-\frac{vsen\alpha-tan\alpha(vcos\alpha-u)}{tan\alpha(vcos\alpha-u)}=\frac{g}{2tan^2\alpha(vcos\alpha-u)}h
+(2) \quad k\frac{Q^2}{4l^2\,cos^2\frac{\beta}{2}} = 2T\,cos\frac{\beta}{2} - 2k\frac{qQ}{l^2}\,cos\frac{\beta}{2}
+$$
+
+Factorizando
+
+$$
+(1) \quad k\frac{q^2}{4l^2\,sen^2\frac{\beta}{2}} = 2sen\frac{\beta}{2} \left(T - k\frac{qQ}{l^2} \right)
 $$
 
 $$
-h=\frac{2tan\alpha(vcos\alpha-u)\;utan\alpha}{g}
+(2) \quad k\frac{Q^2}{4l^2\,cos^2\frac{\beta}{2}} = 2cos\frac{\beta}{2} \left(T - k\frac{qQ}{l^2} \right)
 $$
 
-</details>
-<hr>
-Dividiendo entre h y despejando obtenemos:
+Dividiendo (1) entre (2)
 
 $$
-h=\frac{2utan^2\alpha(vcos\alpha-u)}{g}
+\frac{q^2\,cos^2\frac{\beta}{2}}{Q^2\,sen^2\frac{\beta}{2}} = \frac{sen\frac{\beta}{2}}{cos\frac{\beta}{2}}
 $$
+
+$$
+tan^3\frac{\beta}{2} = \frac{q^2}{Q^2}
+$$
+
+Finalmente
+
+$$
+\beta = 2tan^{-1}\left[\left(\frac{q}{Q}\right)^{2/3}\right]
+$$
+
+### 4. Calculo de las tensiones
+Despejando la tension de (1) y de (2)
+
+$$
+T = \frac{k}{l^2}\left(\frac{q^2}{sen^3\frac{\beta}{2}} + qQ \right)
+$$
+
+$$
+T = \frac{k}{l^2}\left(\frac{Q^2}{cos^3\frac{\beta}{2}} + qQ \right)
+$$
+
+Usando identidades trigonométricas se puede reemplazar seno y coseno
+
+$$
+tan\frac{\beta}{2} = \left( \frac{q}{Q} \right)^\frac{2}{3}
+$$
+
+$$
+sec^3\frac{\beta}{2} = \left[ 1 + \left( \frac{q}{Q} \right)^\frac{4}{3} \right]^\frac{3}{2}
+$$
+
+$$
+sec^3\frac{\beta}{2} = \frac{(Q^{4/3} + q^{4/3})^{3/2}}{Q^2}
+$$
+
+Sustituyendo obtenemos la tensión
+
+$$
+T = \frac{k}{l^2}\left[ \frac{(Q^{4/3} + q^{4/3})^{3/2}}{8} + qQ \right]
+$$
+
+Se obtiene el mismo resultado para $T$ si usamos cosecante en lugar de secante.
 
 ## Solución en Geogebra
-<iframe src="https://www.geogebra.org/calculator/byrrhdd7?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+<iframe src="https://www.geogebra.org/calculator/qanfe74t?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
-- [[irodov-1.11| Distancia en movimiento parabólico]]
-- [[irodov-1.31| Rebote en plano inclinado]]
-- [[irodov-1.32| Tiempo de vuelo]]
-- [[irodov-1.33| Tiempo de retraso]]
+- [[sears-zemansky-6.1.8| Angulo de apertura]]
