@@ -124,4 +124,4 @@ Se obtiene el mismo resultado para $T$ si usamos cosecante en lugar de secante.
 <iframe src="https://www.geogebra.org/calculator/qanfe74t?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
-- [[sears-zemansky-6.1.8| Angulo de apertura]]
+- [[sears-zemansky-21.84| Angulo de apertura]]
