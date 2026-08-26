@@ -37,3 +37,5 @@ La solucion en Geogebra usa varias secuencias
 
 ## Problemas relacionados
 - [[savchenko-1.3.10| Altura de vuelo]]
+- [[savchenko-1.3.13| Alcance de artillería]]
+- [[savchenko-1.3.15| Lazo en cilindro]]
