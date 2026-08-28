@@ -90,11 +90,11 @@ $$
 Despejando la tension de (1) y de (2)
 
 $$
-T = \frac{k}{l^2}\left(\frac{q^2}{sen^3\frac{\beta}{2}} + qQ \right)
+T = \frac{k}{l^2}\left(\frac{q^2}{8sen^3\frac{\beta}{2}} + qQ \right)
 $$
 
 $$
-T = \frac{k}{l^2}\left(\frac{Q^2}{cos^3\frac{\beta}{2}} + qQ \right)
+T = \frac{k}{l^2}\left(\frac{Q^2}{8cos^3\frac{\beta}{2}} + qQ \right)
 $$
 
 Usando identidades trigonométricas se puede reemplazar seno y coseno
