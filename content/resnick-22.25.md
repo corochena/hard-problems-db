@@ -86,7 +86,8 @@ $$
 
 ## Solución en Geogebra
 
-<iframe src="https://www.geogebra.org/calculator/qanfe74t?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/calculator/wg2dj6eb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
 - [[sears-zemansky-21.84| Angulo de apertura]]
+- [[savchenko-6.1.8| Cuatro cargas formando un rombo]]

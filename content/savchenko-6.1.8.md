@@ -125,3 +125,4 @@ Se obtiene el mismo resultado para $T$ si usamos cosecante en lugar de secante.
 
 ## Problemas relacionados
 - [[sears-zemansky-21.84| Angulo de apertura]]
+- [[resnick-22.25| Campo Eléctrico de Arco Circular]]
