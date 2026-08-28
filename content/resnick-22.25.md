@@ -85,6 +85,7 @@ E = 1.62 \times 10^6 \, N/C
 $$
 
 ## Solución en Geogebra
+Repartimos la carga $Q$ en $n+1$ cargas puntuales todos ubicados a lo largo del arco de círculo equidistantes uno del otro. Calculamos los vectores $E$ causados por los $dq$, y los sumamos para obtener la respuesta.
 
 <iframe src="https://www.geogebra.org/calculator/wg2dj6eb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
