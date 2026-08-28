@@ -25,7 +25,7 @@ Una bola se lanza por la superficie interior de un cilindro vertical liso de rad
 
 
 ## Solución en Geogebra
-
+<iframe src="https://www.geogebra.org/calculator/wj3cwtgn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
 - [[savchenko-1.3.2| Descenso dentro de círculo]]
