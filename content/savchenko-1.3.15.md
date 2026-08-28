@@ -18,13 +18,43 @@ Una bola se lanza por la superficie interior de un cilindro vertical liso de rad
 ## Solucion
 
 ### 1. Estrategia
+Calculemos el tiempo que le tarda dar una vuelta completa al cilindro y usemos la condicion que la altura de la bola debe ser cero en ese tiempo.
 
+### 2. Tiempo en completar $n$ vueltas
+Sea $\tau$ el tiempo que le tomaría a la bola completar $n$ vueltas
 
-### 2. Condición de Equilibrio. Simetría. Ley de Coulomb.
+$$
+\tau = \frac{2\pi\,R}{v\,sen\alpha}
+$$
 
+### 3. Condición de regresar al punto de partida
+Si la bola inicio en $y=0$ debe regresar a esa altura en el tiempo $\tau$
+
+$$
+vcos\alpha\;t-\frac{1}{2}gt^2 = 0
+$$
+
+Sustituyendo $\tau$
+
+$$
+vcos\alpha\, \frac{2\pi R}{vsen\alpha} - \frac{1}{2}g\,\left( \frac{2\pi R}{vsen\alpha} \right)^2 = 0
+$$
+
+Simplificando
+
+$$
+\frac{1}{tan\alpha} = \frac{\pi R g}{v^2 sen^2\alpha}
+$$
+
+Obteniendo
+
+$$
+v = \sqrt{\frac{2\pi Rg}{sen2\alpha}}
+$$
 
 
 ## Solución en Geogebra
+
 <iframe src="https://www.geogebra.org/calculator/wj3cwtgn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
