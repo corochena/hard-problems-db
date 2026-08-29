@@ -103,3 +103,6 @@ $$
 
 
 ## Solución en GeoGebra
+En GeoGebra pude enlazar los puntos y al mover el punto P (boy scout) a la derecha sube el punto F (Comida), pero no encontré una forma de medir la velocidad y aceleración.
+
+<iframe src="https://www.geogebra.org/calculator/e3jrutpb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
