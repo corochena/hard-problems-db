@@ -77,8 +77,34 @@ $$
 
 Donde comprobamos que la frontera también es una parábola!
 
+### 5. Velocidad mínima
+Para obtener la velocidad mínima con que podemos alcanzar el punto $(x,y)$ solo tenemos que despejar $v$ de la ecuación frontera antes encontrada.
+
+$$
+2gyv^2 = v^4 - g^2x^2
+$$
+
+$$
+v^4 - 2gyv^2 - g^2x^2 = 0
+$$
+
+$$
+v^2 = \frac{2gy \pm \sqrt{4g^2y^2 + 4g^2x^2}}{2}
+$$
+
+$$
+v^2 = g(y \pm \sqrt{x^2 + y^2})
+$$
+
+Desechamos el signo negativo de la raíz cuadrada ya que daría como respuesta un número imaginario
+
+$$
+v = \sqrt{g(y + \sqrt{x^2 + y^2})}
+$$
+
 ## Solución en Geogebra
 
+<iframe src="https://www.geogebra.org/calculator/sxyxxdve?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Problemas relacionados
 - [[savchenko-1.3.2| Descenso dentro de círculo]]
