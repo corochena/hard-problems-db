@@ -10,9 +10,11 @@ Bienvenidos a mi jardin de problemas digital! Este repositorio guarda una colecc
 
 ## 📚 Problem Categories
 
-### 🪐 Fisica & Mecanica Clasica
+### 🪐 Movimiento Parabólico
 - [[irodov-1.9| Arrastre en rio]]
 
+### 🧲 Electromagnetismo
+- [[savchenko-6.1.8| Cuatro cargas formando un rombo]]
 
 ---
 
