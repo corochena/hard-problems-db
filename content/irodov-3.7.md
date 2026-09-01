@@ -24,7 +24,30 @@ En los vértices de un cuadrado, cuya diagonal es $2l$, se encuentran las cargas
 ## Solucion
 
 ### 1. Estrategia
+Con diagramas vistos desde varias perspectivas, superior, frontal y lateral, se aprecia mejor las relaciones geométricas entre las diagonales, las aristas $l$, la distancia $x$, el campo $E$ y sus componentes.
 
+### 2. Magnitud de $E$ causado por una sola carga $q$
+El campo eléctrico de una carga puntual se calcula mediante
+
+$$
+E_1 = k\frac{q}{x^2 + l^2}
+$$
+
+Este valor se debe multiplicar por $\sqrt{2}/2$ para tomar la componente adecuada y se debe multiplicar por el coseno del ángulo formado por el vector $E_1$ y el plano del cuadrado, y esto por la contribución de las 4 cargas
+
+$$
+E = 4k \frac{q}{x^2 + l^2}\frac{\sqrt{2}}{2}cos\theta
+$$
+
+Sustituyendo y Simplificando
+
+$$
+E = 4k \frac{q}{x^2 + l^2}\frac{\sqrt{2}}{2} \frac{l}{r}
+$$
+
+$$
+E = \frac{q}{\sqrt{2}\pi \epsilon_0}\frac{l}{(x^2 + l^2)^{3/2}}
+$$
 
 ---
 
