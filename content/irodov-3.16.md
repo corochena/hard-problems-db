@@ -1,20 +1,20 @@
 ---
-titulo: Campo eléctrico aro + carga puntual
+titulo: Campo eléctrico en centro de cascarón esférico
 autor: Irodov
-dificultad: media
+dificultad: alta
 tags:
   - fisica
-  - desarrollo en serie de potencias
+  - integrales
   - campo eléctrico
-  - cargas puntuales
+  - distribución de carga
 ---
 
-# Campo eléctrico aro + carga puntual
+# Campo eléctrico en centro de cascarón esférico
 
 **Fuente/Autor:**  *I.E. Irodov - Problemas de Fisica General*
 
 ## Enunciado
-En el centro de un anillo fino de radio $R$, en el cual está distribuida uniformemente una carga $-q$, se encuentra una carga puntual $q$. Hallar el módulo del vector de la intensidad del campo eléctrico en un punto del eje del anillo, distante $x$ de su centro, si $x>>R$
+Una esfera de radio $r$ tiene una densidad superficial de la carga $\sigma = \vec{a} \cdot \vec{r}$, donde $\vec{a}$ es un vector constante y $\vec{r}$, el radio vector de un punto de la esfera respecto a su centro. Determinar el vector de la intensidad del campo eléctrico en el centro de la esfera.
 
 ## Solucion
 
