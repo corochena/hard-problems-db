@@ -4,7 +4,7 @@ autor: Larson
 dificultad: media
 tags:
   - probabilidad
-  - integracion
+  - integrales
   - calculo
 ---
 

@@ -5,7 +5,7 @@ dificultad: media
 tags:
   - fisica
   - campo eléctrico
-  - integración
+  - integrales
   - vectores
 ---
 
