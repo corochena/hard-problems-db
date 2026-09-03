@@ -28,7 +28,7 @@ Una esfera de radio $r$ tiene una densidad superficial de la carga $\sigma = \ve
 ## Solución en GeoGebra
 En 3D se aprecian todas las vistas que en 2D son difíciles de ver.
 
-
+<iframe src="https://www.geogebra.org/calculator/m8dfxze5?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 
 ## Problemas relacionados
