@@ -125,5 +125,7 @@ R = \sqrt{3}b
 $$
 
 ## Solución en GeoGebra
+En la vista 3D se aprecian bien los vectores, ángulos y dimensiones del problema.
 
+<iframe src="https://www.geogebra.org/calculator/quepcphv?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
