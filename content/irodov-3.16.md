@@ -19,9 +19,52 @@ Una esfera de radio $r$ tiene una densidad superficial de la carga $\sigma = \ve
 ## Solucion
 
 ### 1. Estrategia
+Usaremos la fórmula del campo eléctrico para un anillo con carga teniendo cuidado de orientar los aros para que sus ejes coincidan con la direccion del vector $\vec{a}$.
 
+### 2. Densidad superficial
+La densidad superficial está expresada como un producto punto entre un vector constante $\vec{a}$ y el radio vector respecto al centro de la esfera, entonces
 
-### 2. Magnitud de $E$ causado por una sola carga $q$
+$$
+\sigma = \vec{a} \cdot \vec{r} = arcos\theta
+$$
+
+Es decir, la densidad es la misma para un ángulo $\theta$, por esto podemos usar la fórmula de campo eléctrico para un anillo con carga.
+
+### 3. Planteo de la integral
+
+$$
+E = \int_{0}^{\pi} k \frac{x}{(x^2 + y^2)^{3/2}} dq
+$$
+
+Donde $x$ es la distancia del centro del aro al centro del cascarón esférico y $y$ es el radio del aro. Se cumple que $x^2 + y^2 = r^2$.
+
+$$
+E = \int_{0}^{\pi} k \frac{rcos\theta}{r^3} \sigma dA
+$$
+
+Simplificando y sustituyendo $\sigma$
+
+$$
+E = \frac{k}{r^2} \int_{0}^{\pi} cos\theta \, arcos\theta \, dA
+$$
+
+$$
+E = \frac{ka}{r} \int_{0}^{\pi} cos^2\theta \, (2\pi y \,ds)
+$$
+
+$$
+E = \frac{2\pi ka}{r} \int_{0}^{\pi} cos^2 \theta \, (rsen\theta) \, rd\theta
+$$
+
+$$
+E = 2\pi kar \int_{0}^{\pi} cos^2 \theta sen\theta \, d\theta
+$$
+
+Integrando obtenemos
+
+$$
+E = \frac{ar}{3\epsilon_0}
+$$
 
 ---
 
