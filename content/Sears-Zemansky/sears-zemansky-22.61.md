@@ -73,8 +73,9 @@ $$
 El campo eléctrico es uniforme y tiene la dirección de $\vec{b}$
 
 ### Solución en Geogebra
+Se observa la esfera cargada con la cavidad esférica
 
-
+<iframe src="https://www.geogebra.org/calculator/krm5wgfb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### Problemas relacionados
 - [[savchenko-6.1.8.md| Cuatro cargas formando un rombo]]
